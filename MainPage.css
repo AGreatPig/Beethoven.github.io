@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+img {
+    object-fit: cover;
+    float: left;
+    margin-right: 50px
+    
+}
+
+body {
+    background: floralwhite;
+    font-family: 'Poppins';
+    margin: 0;
+    background-image: linear-gradient(to right, aqua, green);
+}
+
+figure {
+    display: table;
+}
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    width: 100%
+}
+
+h1.Firstheading {
+    position: absolute;
+    top: 0%;
+    width: 75%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+div.listThing {
+    position: fixed;
+    position: absolute;
+    top: 9%;
+    right: 1px;
+    border: 2px solid black;
+    width: 77%;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.sectionBackgroundInfo {
+    position: absolute;
+    top: 14%;
+    left: 386px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.backgroundInfo {
+    position: absolute;
+    top: 18%;
+    width: 65%;
+    text-align: left;
+    left: 389px;
+    font-size: 19px;
+}
+
+.StyleMusicWriting {
+    position: absolute;
+    left: 389px;
+    bottom: -121px;
+    text-decoration: underline;
+}
+
+.styleMusicWriteThing {
+    position: absolute;
+    bottom: -267px;
+    width: 65%;
+    text-align: left;
+    left: 389px;
+    font-size: 19px;
+}
+
+.WhyIChoseBeethoven {
+    position: absolute;
+    left: 389px;
+    bottom: -303px;
+    text-decoration: underline;
+}
+
+.beethovenChoseWhy {
+    position: absolute;
+    bottom: -530px;
+    width: 65%;
+    text-align: left;
+    left: 389px;
+    font-size: 19px;
+}
+
+.ClassicalShapingSociety {
+    position: absolute;
+    left: 389px;
+    bottom: -505px;
+    text-decoration: underline;
+}
+
+.ShapingSociety {
+    position: absolute;
+    bottom: -700px;
+    width: 65%;
+    text-align: left;
+    left: 389px;
+    font-size: 19px;
+}
+
+
+.Secondheading {
+    position: relative;
+    float: right;
+    top: -350px;
+    width: 200px;
+    border: 5px outset aqua;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+div.Fact1 {
+    position: relative;
+    width: 250px;
+    text-align: center;
+    right: -25px;
+    bottom: -10px;
+    border: 1px outset black;
+}
+
+.ContributionsInfluence {
+    position: absolute;
+    left: 389px;
+    bottom: -565px;
+    text-decoration: underline;
+}
+
+.legacyLeftBehind {
+    position: absolute;
+    bottom: -710px;
+    width: 65%;
+    text-align: left;
+    left: 388px;
+    font-size: 19px;
+}
+
+.top5 {
+    text-decoration: underline;
+}
+
+div.Fact2 {
+    position: relative;
+    width: 250px;
+    text-align: center;
+    right: -25px;
+    bottom: -40px;
+    border: 1px outset black;
+}
+
+.EAsports {
+    position: absolute;
+    width: 300px;
+    object-fit: cover;
+    bottom: -585px;
+}
+
+.Citations {
+    position: absolute;
+    left: 389px;
+    bottom: -755px;
+    text-decoration: underline;
+}
+
+.CitationsEA {
+    position: absolute;
+    bottom: -1461px;
+    width: 65%;
+    text-align: left;
+    left: 389px;
+    font-size: 19px;
+}
